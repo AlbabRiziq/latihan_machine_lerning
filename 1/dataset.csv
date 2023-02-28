@@ -1,0 +1,101 @@
+﻿Status Pernikahan;Program Studi;Kelas Siang/Malam;Daerah Asal;Pendidikan Ibu;Pendidikan Ayah;Pekerjaan Ibu;Pekerjaan Ayah;Nilai Ujian Masuk;Pindahan;Berkebutuhan Khusus;Jenis Kelamin;Beasiswa;Usia saat mendaftar;IP Semester 1;Target
+Belum Menikah;Perbankan;Siang;Pulau Jawa;Dibawah SMA/Sederajat;Dibawah SMA/Sederajat;Lainnya;Lainnya;52,95;Tidak;Tidak;Perempuan;Tidak;35;2,36;Lulus Tidak Tepat Waktu
+Belum Menikah;Teknik Mesin;Siang;Pulau Jawa;Dibawah SMA/Sederajat;Dibawah SMA/Sederajat;Wiraswasta;Lainnya;66,05;Ya;Tidak;Perempuan;Tidak;19;2,75;Lulus Tepat Waktu
+Belum Menikah;Agronomi;Siang;Pulau Jawa;SMA/Sederajat;SMA/Sederajat;Wiraswasta;Lainnya;63,7;Ya;Tidak;Perempuan;Tidak;20;2,23;Lulus Tepat Waktu
+Belum Menikah;Perbankan;Siang;Pulau Jawa;SMA/Sederajat;SMA/Sederajat;Lainnya;Lainnya;64,75;Ya;Tidak;Perempuan;Tidak;18;2,46;Lulus Tepat Waktu
+Belum Menikah;Agronomi;Siang;Pulau Jawa;Lebih dari S1;Lebih dari S1;Pegawai Negri;Lainnya;63,35;Tidak;Tidak;Perempuan;Tidak;21;2,43;Lulus Tepat Waktu
+Belum Menikah;Agronomi;Siang;Pulau Jawa;SMA/Sederajat;Lebih dari S1;Pegawai Swasta;Lainnya;58,25;Tidak;Tidak;Perempuan;Ya;18;2,23;Lulus Tepat Waktu
+Belum Menikah;Agronomi;Siang;Pulau Jawa;Lebih dari S1;Lebih dari S1;Lainnya;Lainnya;59,55;Ya;Tidak;Perempuan;Tidak;18;2,20;Lulus Tepat Waktu
+Belum Menikah;Perbankan;Siang;Pulau Jawa;SMA/Sederajat;Lebih dari S1;Pegawai Swasta;Pegawai Swasta;63,25;Ya;Tidak;Perempuan;Tidak;18;2,58;Lulus Tepat Waktu
+Belum Menikah;Jurnalistik;Siang;Pulau Jawa;Dibawah SMA/Sederajat;SMA/Sederajat;Lainnya;Wiraswasta;74,9;Ya;Tidak;Perempuan;Ya;18;2,77;Lulus Tepat Waktu
+Belum Menikah;Teknik Mesin;Siang;Pulau Jawa;SMA/Sederajat;Dibawah SMA/Sederajat;Lainnya;Lainnya;57,55;Ya;Tidak;Perempuan;Tidak;19;2,77;Lulus Tepat Waktu
+Belum Menikah;Pertanian;Siang;Pulau Jawa;Dibawah SMA/Sederajat;SMA/Sederajat;Lainnya;Lainnya;62,25;Tidak;Tidak;Perempuan;Ya;36;2,74;Gagal
+Belum Menikah;Perbankan;Siang;Pulau Jawa;Lebih dari S1;Dibawah SMA/Sederajat;Lainnya;Wiraswasta;64,15;Ya;Tidak;Perempuan;Ya;18;2,53;Lulus Tepat Waktu
+Belum Menikah;Perbankan;Siang;Pulau Jawa;Lebih dari S1;Lebih dari S1;Pegawai Swasta;Pegawai Swasta;68;Tidak;Tidak;Perempuan;Ya;18;2,58;Lulus Tepat Waktu
+Belum Menikah;Keperawatan;Siang;Pulau Jawa;Dibawah SMA/Sederajat;Dibawah SMA/Sederajat;Pegawai Swasta;Lainnya;70;Ya;Tidak;Perempuan;Ya;20;3,13;Lulus Tepat Waktu
+Belum Menikah;Ekonomi;Malam;Pulau Jawa;Lebih dari S1;Lebih dari S1;Pegawai Swasta;Pegawai Swasta;63,15;Tidak;Tidak;Perempuan;Ya;26;0,00;Gagal
+Belum Menikah;Jurnalistik;Siang;Pulau Jawa;Dibawah SMA/Sederajat;Dibawah SMA/Sederajat;Wiraswasta;Pegawai Negri;63,45;Tidak;Tidak;Perempuan;Tidak;21;2,34;Lulus Tepat Waktu
+Belum Menikah;Teknik Industri;Siang;Pulau Jawa;Dibawah SMA/Sederajat;Dibawah SMA/Sederajat;Wiraswasta;Pegawai Negri;72,5;Tidak;Tidak;Perempuan;Tidak;25;2,43;Lulus Tidak Tepat Waktu
+Belum Menikah;Hubungan Masyarakat;Siang;Pulau Jawa;SMA/Sederajat;Dibawah SMA/Sederajat;Pegawai Negri;Pegawai Negri;57,9;Ya;Tidak;Perempuan;Ya;19;2,32;Lulus Tepat Waktu
+Belum Menikah;Pariwisata;Malam;Pulau Jawa;SMA/Sederajat;Lebih dari S1;Lainnya;Lainnya;50;Ya;Tidak;Perempuan;Tidak;24;2,00;Gagal
+Belum Menikah;Pariwisata;Malam;Pulau Jawa;Dibawah SMA/Sederajat;SMA/Sederajat;Pegawai Negri;Wiraswasta;51,25;Tidak;Tidak;Perempuan;Ya;27;2,00;Gagal
+Belum Menikah;Teknik Mesin;Siang;Pulau Jawa;SMA/Sederajat;Lebih dari S1;Lainnya;Lainnya;65,75;Tidak;Tidak;Perempuan;Tidak;21;0,00;Gagal
+Belum Menikah;Hubungan Masyarakat;Siang;Pulau Jawa;Lebih dari S1;Lebih dari S1;Lainnya;Lainnya;73,5;Tidak;Tidak;Perempuan;Ya;18;2,60;Lulus Tepat Waktu
+Menikah;Teknologi Informasi;Siang;Pulau Jawa;Lebih dari S1;Lebih dari S1;Pegawai Negri;Lainnya;61,25;Tidak;Ya;Perempuan;Ya;19;2,67;Lulus Tepat Waktu
+Belum Menikah;Pertanian;Siang;Pulau Jawa;Dibawah SMA/Sederajat;Dibawah SMA/Sederajat;Lainnya;Lainnya;58,75;Ya;Tidak;Perempuan;Tidak;18;2,25;Gagal
+Belum Menikah;Perbankan;Siang;Pulau Jawa;SMA/Sederajat;Dibawah SMA/Sederajat;Pegawai Negri;Pegawai Swasta;75;Tidak;Tidak;Perempuan;Ya;19;2,77;Lulus Tepat Waktu
+Belum Menikah;Perbankan;Siang;Pulau Jawa;Dibawah SMA/Sederajat;Lebih dari S1;Wiraswasta;Pegawai Negri;63,75;Ya;Tidak;Perempuan;Ya;19;2,75;Lulus Tepat Waktu
+Menikah;Ekonomi;Malam;Pulau Jawa;Lebih dari S1;Dibawah SMA/Sederajat;Lainnya;Lainnya;70;Tidak;Tidak;Perempuan;Tidak;33;3,07;Lulus Tepat Waktu
+Menikah;Hubungan Masyarakat;Siang;Pulau Jawa;Dibawah SMA/Sederajat;Dibawah SMA/Sederajat;Lainnya;Lainnya;65;Tidak;Tidak;Perempuan;Tidak;45;2,20;Lulus Tepat Waktu
+Belum Menikah;Agronomi;Siang;Pulau Jawa;Dibawah SMA/Sederajat;Dibawah SMA/Sederajat;Pegawai Swasta;Pegawai Swasta;66,65;Tidak;Tidak;Perempuan;Ya;20;2,40;Lulus Tepat Waktu
+Belum Menikah;Akuntansi;Siang;Pulau Jawa;Lebih dari S1;Lebih dari S1;Lainnya;Lainnya;48,5;Ya;Tidak;Perempuan;Tidak;28;0,00;Gagal
+Belum Menikah;Perbankan;Siang;Pulau Jawa;Dibawah SMA/Sederajat;Dibawah SMA/Sederajat;Pegawai Negri;Lainnya;56;Ya;Tidak;Perempuan;Ya;19;2,31;Lulus Tepat Waktu
+Belum Menikah;Pertanian;Siang;Pulau Jawa;Dibawah SMA/Sederajat;Lebih dari S1;Wiraswasta;Pegawai Negri;61,8;Ya;Tidak;Perempuan;Tidak;18;2,57;Lulus Tepat Waktu
+Belum Menikah;Pertanian;Siang;Pulau Jawa;SMA/Sederajat;SMA/Sederajat;Wiraswasta;Lainnya;65,25;Tidak;Tidak;Perempuan;Tidak;38;0,00;Gagal
+Belum Menikah;Akuntansi;Siang;Pulau Jawa;Dibawah SMA/Sederajat;Dibawah SMA/Sederajat;Wiraswasta;Lainnya;66,65;Tidak;Tidak;Perempuan;Tidak;19;2,60;Lulus Tepat Waktu
+Belum Menikah;Pertanian;Siang;Pulau Jawa;Dibawah SMA/Sederajat;Lebih dari S1;Pegawai Swasta;Pegawai Swasta;66,05;Tidak;Tidak;Perempuan;Ya;21;2,20;Lulus Tepat Waktu
+Belum Menikah;Hubungan Masyarakat;Siang;Pulau Jawa;Lebih dari S1;Dibawah SMA/Sederajat;Pegawai Swasta;Lainnya;50;Tidak;Tidak;Perempuan;Tidak;21;2,40;Gagal
+Belum Menikah;Agronomi;Siang;Pulau Jawa;Lebih dari S1;Lebih dari S1;Pegawai Swasta;Pegawai Swasta;70,2;Tidak;Tidak;Perempuan;Ya;22;2,52;Lulus Tepat Waktu
+Belum Menikah;Teknologi Informasi;Siang;Pulau Jawa;SMA/Sederajat;SMA/Sederajat;Pegawai Negri;Lainnya;70,85;Tidak;Tidak;Perempuan;Ya;18;2,68;Lulus Tepat Waktu
+Belum Menikah;Agronomi;Siang;Pulau Jawa;Lebih dari S1;Lebih dari S1;Lainnya;Pegawai Swasta;59,85;Tidak;Ya;Perempuan;Ya;18;2,27;Lulus Tepat Waktu
+Belum Menikah;Keperawatan;Siang;Pulau Jawa;SMA/Sederajat;Dibawah SMA/Sederajat;Pegawai Swasta;Pegawai Swasta;61,25;Ya;Tidak;Perempuan;Tidak;25;2,70;Gagal
+Belum Menikah;Teknik Mesin;Siang;Pulau Jawa;SMA/Sederajat;SMA/Sederajat;Pegawai Swasta;Lainnya;70;Tidak;Tidak;Perempuan;Tidak;24;2,35;Gagal
+Belum Menikah;Perbankan;Siang;Pulau Jawa;Dibawah SMA/Sederajat;Dibawah SMA/Sederajat;Wiraswasta;Wiraswasta;59,7;Ya;Tidak;Perempuan;Tidak;19;2,49;Lulus Tidak Tepat Waktu
+Belum Menikah;Penyiaran;Siang;Pulau Jawa;Dibawah SMA/Sederajat;Dibawah SMA/Sederajat;Lainnya;Lainnya;77,5;Ya;Tidak;Perempuan;Tidak;24;2,58;Lulus Tidak Tepat Waktu
+Belum Menikah;Hubungan Masyarakat;Siang;Pulau Jawa;Lebih dari S1;SMA/Sederajat;Pegawai Negri;Pegawai Negri;59,55;Ya;Tidak;Perempuan;Ya;20;2,32;Lulus Tepat Waktu
+Belum Menikah;Hubungan Masyarakat;Siang;Pulau Jawa;Lebih dari S1;Dibawah SMA/Sederajat;Pegawai Swasta;Lainnya;61,35;Tidak;Tidak;Perempuan;Tidak;25;0,00;Gagal
+Belum Menikah;Hubungan Masyarakat;Siang;Pulau Jawa;Lebih dari S1;SMA/Sederajat;Pegawai Swasta;Lainnya;58,95;Tidak;Tidak;Perempuan;Ya;20;2,58;Lulus Tepat Waktu
+Belum Menikah;Perbankan;Siang;Pulau Jawa;SMA/Sederajat;Lebih dari S1;Pegawai Negri;Lainnya;65;Tidak;Tidak;Perempuan;Tidak;23;2,64;Lulus Tepat Waktu
+Belum Menikah;Perbankan;Siang;Pulau Jawa;SMA/Sederajat;Lebih dari S1;Lainnya;Lainnya;60;Ya;Tidak;Perempuan;Ya;19;2,63;Lulus Tepat Waktu
+Belum Menikah;Perpustakaan;Siang;Pulau Jawa;Lebih dari S1;Lebih dari S1;Pegawai Swasta;Lainnya;65;Tidak;Tidak;Perempuan;Tidak;29;2,55;Gagal
+Belum Menikah;Pertanian;Siang;Pulau Jawa;SMA/Sederajat;Lebih dari S1;Wiraswasta;Lainnya;58,4;Ya;Tidak;Perempuan;Tidak;21;2,27;Lulus Tepat Waktu
+Belum Menikah;Teknik Industri;Siang;Pulau Jawa;Dibawah SMA/Sederajat;Dibawah SMA/Sederajat;Wiraswasta;Lainnya;53,55;Ya;Tidak;Perempuan;Tidak;20;2,50;Lulus Tepat Waktu
+Belum Menikah;Perbankan;Siang;Pulau Jawa;SMA/Sederajat;Lebih dari S1;Pegawai Negri;Lainnya;62,75;Tidak;Tidak;Perempuan;Tidak;18;2,57;Lulus Tepat Waktu
+Belum Menikah;Akuntansi;Siang;Pulau Jawa;Lebih dari S1;Lebih dari S1;Pegawai Swasta;Lainnya;63,5;Ya;Tidak;Perempuan;Tidak;18;2,45;Lulus Tepat Waktu
+Belum Menikah;Teknik Mesin;Siang;Pulau Jawa;Lebih dari S1;Lebih dari S1;Pegawai Swasta;Pegawai Swasta;56,75;Ya;Tidak;Perempuan;Ya;21;2,40;Lulus Tepat Waktu
+Belum Menikah;Perbankan;Siang;Pulau Jawa;SMA/Sederajat;SMA/Sederajat;Wiraswasta;Pegawai Swasta;77,2;Tidak;Tidak;Perempuan;Ya;18;3,02;Lulus Tepat Waktu
+Belum Menikah;Akuntansi;Siang;Pulau Jawa;SMA/Sederajat;SMA/Sederajat;Pegawai Negri;Pegawai Negri;61;Tidak;Tidak;Perempuan;Tidak;18;2,50;Gagal
+Belum Menikah;Agronomi;Siang;Pulau Jawa;Dibawah SMA/Sederajat;SMA/Sederajat;Wiraswasta;Lainnya;64;Ya;Tidak;Perempuan;Tidak;19;0,00;Gagal
+Belum Menikah;Akuntansi;Siang;Pulau Jawa;Dibawah SMA/Sederajat;SMA/Sederajat;Wiraswasta;Lainnya;57,75;Ya;Tidak;Perempuan;Tidak;19;2,20;Lulus Tidak Tepat Waktu
+Belum Menikah;Akuntansi;Siang;Pulau Jawa;Dibawah SMA/Sederajat;SMA/Sederajat;Pegawai Negri;Pegawai Negri;58,6;Ya;Tidak;Perempuan;Tidak;18;2,38;Lulus Tepat Waktu
+Belum Menikah;Keperawatan;Siang;Pulau Jawa;Dibawah SMA/Sederajat;Dibawah SMA/Sederajat;Lainnya;Lainnya;75;Ya;Tidak;Perempuan;Tidak;34;2,20;Gagal
+Belum Menikah;Teknik Mesin;Siang;Pulau Jawa;SMA/Sederajat;SMA/Sederajat;Lainnya;Lainnya;77,65;Tidak;Tidak;Perempuan;Tidak;19;3,04;Lulus Tepat Waktu
+Belum Menikah;Keperawatan;Siang;Pulau Jawa;Lebih dari S1;Lebih dari S1;Lainnya;Lainnya;60;Ya;Tidak;Perempuan;Tidak;19;2,32;Gagal
+Belum Menikah;Agronomi;Siang;Pulau Jawa;Dibawah SMA/Sederajat;SMA/Sederajat;Lainnya;Lainnya;58,05;Tidak;Tidak;Perempuan;Tidak;26;2,97;Lulus Tepat Waktu
+Belum Menikah;Teknologi Informasi;Siang;Pulau Jawa;Lebih dari S1;Lebih dari S1;Lainnya;Lainnya;59,45;Ya;Tidak;Perempuan;Tidak;21;2,27;Gagal
+Belum Menikah;Hubungan Masyarakat;Siang;Pulau Jawa;SMA/Sederajat;SMA/Sederajat;Wiraswasta;Lainnya;63,65;Tidak;Tidak;Perempuan;Ya;18;2,24;Lulus Tepat Waktu
+Belum Menikah;Teknologi Informasi;Siang;Pulau Jawa;Lebih dari S1;Lebih dari S1;Pegawai Negri;Lainnya;56,85;Ya;Tidak;Perempuan;Ya;20;2,68;Lulus Tepat Waktu
+Belum Menikah;Hubungan Masyarakat;Siang;Pulau Jawa;Dibawah SMA/Sederajat;Dibawah SMA/Sederajat;Wiraswasta;Wiraswasta;59,25;Tidak;Tidak;Perempuan;Tidak;25;2,10;Gagal
+Belum Menikah;Hubungan Masyarakat;Siang;Pulau Jawa;Dibawah SMA/Sederajat;Lebih dari S1;Wiraswasta;Lainnya;73,35;Tidak;Tidak;Perempuan;Tidak;18;3,24;Lulus Tepat Waktu
+Belum Menikah;Perbankan;Siang;Pulau Jawa;SMA/Sederajat;SMA/Sederajat;Lainnya;Lainnya;62,15;Ya;Tidak;Perempuan;Ya;18;2,91;Lulus Tepat Waktu
+Belum Menikah;Perbankan;Siang;Pulau Jawa;Lebih dari S1;SMA/Sederajat;Lainnya;Pegawai Negri;68,9;Tidak;Tidak;Perempuan;Tidak;19;2,74;Lulus Tepat Waktu
+Belum Menikah;Agronomi;Siang;Pulau Jawa;SMA/Sederajat;Lebih dari S1;Pegawai Negri;Pegawai Swasta;65,1;Tidak;Tidak;Perempuan;Ya;18;2,26;Lulus Tepat Waktu
+Belum Menikah;Perbankan;Siang;Pulau Jawa;Lebih dari S1;Lebih dari S1;Lainnya;Lainnya;73,9;Tidak;Tidak;Perempuan;Tidak;20;2,35;Lulus Tidak Tepat Waktu
+Belum Menikah;Teknik Mesin;Siang;Pulau Jawa;SMA/Sederajat;SMA/Sederajat;Pegawai Swasta;Pegawai Negri;75;Tidak;Tidak;Perempuan;Tidak;26;0,00;Gagal
+Belum Menikah;Perbankan;Siang;Pulau Jawa;Lebih dari S1;Lebih dari S1;Lainnya;Pegawai Swasta;50;Ya;Tidak;Perempuan;Ya;19;2,61;Lulus Tepat Waktu
+Belum Menikah;Perbankan;Siang;Pulau Jawa;Dibawah SMA/Sederajat;Dibawah SMA/Sederajat;Pegawai Negri;Lainnya;77,8;Tidak;Tidak;Perempuan;Tidak;19;2,86;Lulus Tepat Waktu
+Belum Menikah;Hubungan Masyarakat;Siang;Pulau Jawa;Lebih dari S1;Lebih dari S1;Pegawai Swasta;Pegawai Swasta;58,7;Tidak;Tidak;Perempuan;Tidak;19;2,36;Lulus Tepat Waktu
+Belum Menikah;Teknik Mesin;Siang;Pulau Jawa;Dibawah SMA/Sederajat;SMA/Sederajat;Lainnya;Pegawai Negri;64,4;Ya;Tidak;Perempuan;Tidak;19;2,07;Lulus Tidak Tepat Waktu
+Belum Menikah;Pertanian;Siang;Pulau Jawa;SMA/Sederajat;SMA/Sederajat;Pegawai Negri;Lainnya;58,75;Ya;Tidak;Perempuan;Tidak;18;2,11;Lulus Tepat Waktu
+Belum Menikah;Perbankan;Siang;Pulau Jawa;Dibawah SMA/Sederajat;Lebih dari S1;Pegawai Swasta;Pegawai Swasta;60,2;Ya;Tidak;Perempuan;Tidak;19;2,67;Lulus Tepat Waktu
+Belum Menikah;Agronomi;Siang;Pulau Jawa;Dibawah SMA/Sederajat;Dibawah SMA/Sederajat;Pegawai Swasta;Lainnya;65,45;Tidak;Tidak;Perempuan;Tidak;18;2,37;Lulus Tepat Waktu
+Belum Menikah;Teknologi Informasi;Siang;Pulau Jawa;Dibawah SMA/Sederajat;SMA/Sederajat;Wiraswasta;Wiraswasta;62,5;Ya;Tidak;Perempuan;Tidak;18;2,52;Lulus Tidak Tepat Waktu
+Belum Menikah;Teknik Mesin;Siang;Pulau Jawa;SMA/Sederajat;Lebih dari S1;Pegawai Swasta;Pegawai Negri;68,4;Ya;Tidak;Perempuan;Tidak;18;2,80;Lulus Tidak Tepat Waktu
+Belum Menikah;Teknologi Informasi;Siang;Pulau Jawa;Dibawah SMA/Sederajat;Lebih dari S1;Pegawai Swasta;Lainnya;60,8;Ya;Tidak;Perempuan;Tidak;18;2,40;Lulus Tidak Tepat Waktu
+Belum Menikah;Perpajakan;Siang;Pulau Jawa;SMA/Sederajat;Lebih dari S1;Wiraswasta;Lainnya;75,5;Tidak;Tidak;Perempuan;Tidak;26;0,00;Gagal
+Belum Menikah;Agronomi;Siang;Pulau Jawa;Lebih dari S1;Lebih dari S1;Lainnya;Lainnya;51,75;Ya;Tidak;Perempuan;Tidak;20;2,40;Lulus Tepat Waktu
+Belum Menikah;Pariwisata;Malam;Pulau Jawa;Lebih dari S1;Lebih dari S1;Pegawai Swasta;Lainnya;59,7;Tidak;Tidak;Perempuan;Tidak;19;2,53;Lulus Tepat Waktu
+Belum Menikah;Agronomi;Siang;Pulau Jawa;Lebih dari S1;Lebih dari S1;Wiraswasta;Pegawai Swasta;67,2;Ya;Tidak;Perempuan;Ya;18;2,43;Lulus Tepat Waktu
+Belum Menikah;Agronomi;Siang;Pulau Jawa;Lebih dari S1;Lebih dari S1;Lainnya;Lainnya;71,5;Tidak;Tidak;Perempuan;Tidak;19;2,67;Lulus Tepat Waktu
+Belum Menikah;Teknologi Informasi;Siang;Pulau Jawa;Lebih dari S1;Dibawah SMA/Sederajat;Lainnya;Lainnya;55;Tidak;Tidak;Perempuan;Tidak;40;3,00;Lulus Tepat Waktu
+Belum Menikah;Perbankan;Siang;Pulau Jawa;Lebih dari S1;Lebih dari S1;Lainnya;Lainnya;66,25;Ya;Tidak;Perempuan;Ya;18;2,68;Lulus Tepat Waktu
+Belum Menikah;Agronomi;Siang;Pulau Jawa;Dibawah SMA/Sederajat;Dibawah SMA/Sederajat;Pegawai Swasta;Lainnya;57,35;Tidak;Tidak;Perempuan;Tidak;19;2,43;Lulus Tepat Waktu
+Belum Menikah;Keperawatan;Siang;Pulau Jawa;Dibawah SMA/Sederajat;Dibawah SMA/Sederajat;Lainnya;Pegawai Negri;83,45;Tidak;Tidak;Perempuan;Tidak;18;2,25;Lulus Tepat Waktu
+Belum Menikah;Teknik Mesin;Siang;Pulau Jawa;Dibawah SMA/Sederajat;Dibawah SMA/Sederajat;Lainnya;Lainnya;62,95;Ya;Tidak;Perempuan;Tidak;19;2,40;Lulus Tidak Tepat Waktu
+Belum Menikah;Penyiaran;Siang;Pulau Jawa;Dibawah SMA/Sederajat;Dibawah SMA/Sederajat;Lainnya;Lainnya;89,15;Ya;Tidak;Perempuan;Tidak;18;0,00;Gagal
+Menikah;Pariwisata;Malam;Pulau Jawa;Lebih dari S1;Lebih dari S1;Pegawai Swasta;Pegawai Swasta;58,5;Ya;Tidak;Perempuan;Tidak;33;2,57;Lulus Tepat Waktu
+Belum Menikah;Perpustakaan;Siang;Pulau Jawa;Dibawah SMA/Sederajat;Dibawah SMA/Sederajat;Lainnya;Lainnya;75;Tidak;Tidak;Perempuan;Tidak;35;2,80;Lulus Tepat Waktu
+Belum Menikah;Hubungan Masyarakat;Siang;Pulau Jawa;Lebih dari S1;Lebih dari S1;Pegawai Swasta;Lainnya;65;Ya;Tidak;Perempuan;Tidak;26;2,60;Lulus Tidak Tepat Waktu
+Belum Menikah;Jurnalistik;Siang;Pulau Jawa;SMA/Sederajat;SMA/Sederajat;Lainnya;Pegawai Negri;67,55;Ya;Tidak;Perempuan;Tidak;18;2,70;Lulus Tepat Waktu
+Belum Menikah;Agronomi;Siang;Pulau Jawa;Lebih dari S1;Lebih dari S1;Pegawai Swasta;Pegawai Swasta;55;Tidak;Tidak;Perempuan;Tidak;36;2,14;Lulus Tidak Tepat Waktu
+Cerai;Ekonomi;Malam;Pulau Jawa;Lebih dari S1;Lebih dari S1;Lainnya;Lainnya;68,1;Tidak;Tidak;Perempuan;Tidak;39;2,20;Lulus Tepat Waktu
